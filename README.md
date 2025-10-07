@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/AUjqqZf.jpeg" width="600" alt="Lonely Souls Café Banner"/>
 </p>
 
-<h1 align="center">☕ Welcome to my world ☕</h1>
+<h1 align="center">🌍 Welcome to my world ☕</h1>
 <p align="center">
   <i>“Where the story hides in plain sight.”</i>
 </p>
@@ -15,8 +15,8 @@
 > Between code and cinema,  
 > I build worlds where reality bends — and stories reveal what lies beneath.
 
-I'm **Mathis Huard**, an **independent game developer** focused on narrative and atmospheric experiences.  
-I mainly work with **Godot 4** and **Unreal Engine**, and I’m currently developing **_Lonely Souls Café_** on Godot 4,  
+I'm **Mathis Huard**, a **creative developer** working on a variety of interactive and narrative projects — not limited to games.  
+I mainly work with **Godot 4**, and I’m currently developing **_Lonely Souls Café_** on it,  
 a surreal game mixing **mystery, strangeness, and cooking**.
 
 🎮 **Current focus:**
@@ -54,11 +54,11 @@ If you’d like to discover my projects or learn more about my work, feel free t
 
 ---
 
-### 🧩 Projects
+### 🧩 My latest projects
 
 > “Every project is a world of its own — big or small, simple or complex.”
 
-You can explore more details, demos, and code on my [portfolio](https://mathishuard.com) or [GitHub](https://github.com/Ky0sann).
+You can explore more details, demos, and code on my [Portfolio](https://mathishuard.com) or [GitHub](https://github.com/Ky0sann).
 
 | Project | Description | Engine | Links |
 |---------|-------------|--------|-------|
@@ -79,7 +79,7 @@ You can explore more details, demos, and code on my [portfolio](https://mathishu
 
 ### ✨ Let’s Connect
 
-If you’re into **strange worlds**, **slow stories**, or **dreamlike atmospheres**,  
+If you’re curious about my work, would like to discuss it, or for any other reason,  
 feel free to reach out — I’m always open to chat or collaborate!
 
 <p align="center">

@@ -16,8 +16,7 @@
 > I build worlds where reality bends — and stories reveal what lies beneath.
 
 I'm **Mathis Huard**, a **creative developer** working on a variety of interactive and narrative projects — not limited to games.  
-I’m currently developing **_Lonely Souls Café_**,  
-a surreal game mixing **mystery, strangeness, and cooking**.
+I’m currently developing **_Lonely Souls Café_**, a surreal game mixing **mystery, strangeness, and cooking**.
 
 🎮 **Current focus:**
 - 🌙 Building surreal worlds and emotional experiences  

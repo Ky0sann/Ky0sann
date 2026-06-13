@@ -16,7 +16,7 @@
 > I build worlds where reality bends — and stories reveal what lies beneath.
 
 I'm **Mathis Huard**, a **creative developer** working on a variety of interactive and narrative projects — not limited to games.  
-I mainly work with **Godot 4**, and I’m currently developing **_Lonely Souls Café_** on it,  
+I’m currently developing **_Lonely Souls Café_**,  
 a surreal game mixing **mystery, strangeness, and cooking**.
 
 🎮 **Current focus:**
@@ -63,7 +63,8 @@ You can explore more details, demos, and code on my [Portfolio](https://mathishu
 | Project | Description | Engine | Links |
 |---------|-------------|--------|-------|
 | 🎭 **Lonely Souls Café** | A surreal narrative game where lost souls wander, memories fragment, and every choice unveils a mystery. | Godot 4 | [Portfolio](https://mathishuard.com/lonelysoulscafe.html) |
-| 🦖 **Dinosaur Game** | A playful 2D side-scroller inspired by the Chrome Dino — made for quick fun and nostalgia. | Godot 4 | [Portfolio](https://mathishuard.com/dinosaurgame.html) &#124; [GitHub](https://github.com/Ky0sann) |
+| 🛒 **Closing Time** | A 3D third-person survival shooter where a police officer must survive endless waves of zombies inside an abandoned supermarket. | Unity | [Portfolio](https://mathishuard.com/closingtime.html) \| [GitHub](https://github.com/Ky0sann/ClosingTime/releases) |
+| 🦖 **Dinosaur Game** | A playful 2D side-scroller inspired by the Chrome Dino — made for quick fun and nostalgia. | Godot 4 | [Portfolio](https://mathishuard.com/dinosaurgame.html) &#124; [GitHub](https://github.com/Ky0sann/dinosaur_godot) |
 ---
 
 ### 📊 GitHub Stats
